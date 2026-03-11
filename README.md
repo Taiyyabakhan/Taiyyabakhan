@@ -83,13 +83,6 @@
 
 ---
 
-### 📌 Projects
-✔ Portfolio Website  
-✔ Women’s Safety Map App  
-✔ IoT Real-Time Monitoring System for Medicines  
-✔ Python To-Do List Application  
-✔ Password Generator  
-
 ---
 
 ### 🎯 Goals

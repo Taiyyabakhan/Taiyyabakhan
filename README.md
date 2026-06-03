@@ -2,7 +2,7 @@
 
 <div style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding: 20px; border-radius: 15px; text-align: center; color: white;">
     <h1>Hi 👋, I'm Taiyyaba Khan</h1>
-    <h3>🚀 Aspiring Full Stack Developer | IT Student 🚀</h3>
+    <h3>🚀 Frontend Developer | Data Analyst | IT Graduate 🚀</h3>
 </div>
 
 <p align="center">  
@@ -11,80 +11,92 @@
 
 ---
 
-### 💡 About Me  
-🎓 **Information Technology Student** at St. John College of Engineering and Management  
-💻 Passionate about **Web Development and Full Stack Development**  
-🌱 Currently learning **Node.js, Backend Development, and Databases**  
-🚀 Love building **responsive and user-friendly web applications**  
-⚡ Always learning new technologies and improving my coding skills  
+## 💡 About Me
+
+🎓 Information Technology Graduate
+
+💻 Passionate about Frontend Development, Data Analytics, and Problem Solving
+
+🌱 Currently enhancing my skills in React.js, Next.js, JavaScript, SQL, and Data Visualization
+
+📊 Interested in transforming raw data into meaningful insights through analytics and dashboards
+
+🚀 Love building responsive, user-friendly web applications and data-driven solutions
+
+⚡ Always learning new technologies and improving my technical skills
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Most Used Languages
-<div style="background: white; padding: 20px; border-radius: 15px; text-align: center;">
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </p>
-</div>
+## 🚀 Core Skills
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Tailwind CSS
+- Responsive Web Design
+- REST API Integration
+- Git & GitHub
+
+### Data Analytics
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Exploratory Data Analysis (EDA)
+- Statistics Fundamentals
 
 ---
 
-### 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools
 
-<p align="left">  
+<p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
 
 </p>
 
 ---
 
+## 📊 Most Used Technologies
+
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+- Data Analytics: Python, SQL, Excel, Power BI
+- Tools: Git, GitHub, VS Code
+
 ---
 
-### 🎯 Goals
-💼 Looking for **Internship / Entry-Level Opportunity in Full Stack Development**  
-📚 Continuously improving **Web Development and Backend Skills**
+
+## 🎯 Career Goals
+
+💼 Looking for Frontend Developer, React Developer, or Data Analyst opportunities
+
+📚 Continuously improving Frontend Development and Data Analytics skills
+
+🚀 Aspiring to build impactful web applications and data-driven solutions
+
+🌟 Open to internships, freelance projects, and entry-level roles
